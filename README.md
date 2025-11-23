@@ -1,5 +1,6 @@
 macOS Ventura EFI for the Acer Aspire TC-780 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f6c8e75-eae7-4870-83ac-1063a1590056" />
 
 # WARNING! SMBIOS DETAILS ARE NOT INCLUDED IN THE CONFIG.PLIST.
 You will have to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate a **iMac18,1** SMBIOS for your system, and add them to the config.plist.
